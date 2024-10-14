@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.132.216.23
+Mi Usuario es: root
+El Hash de mi Usuario es: $6$s04/9Uo1YTzZvnFP$5q0KeRjtRzpnD9DXMCYgOm/Jtg3jNVbiRy7C/9SIhgbk1nm2pRD1OtpbN5ru5SPghjPQj6ZVJJ4n/G/RyDt3e/
+La URL de mi repositorio es: git@github.com:SirRulo/UTNFRA_SO_1P2C_2024_Barbizan.git

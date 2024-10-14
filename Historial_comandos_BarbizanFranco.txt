@@ -1,0 +1,159 @@
+clear
+ls
+mkdir repogit
+ls
+cd repogit/
+ssh-keygen -t ed25519 -C "franco.barbizan@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+clear
+git clone git@github.com:SirRulo/UTNFRA_SO_1P2C_2024_Barbizan.git
+ls
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ls
+sudo snap install tree
+ls
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+source  ~/.bashrc  && history -a
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+exit
+ls
+cd repogit/
+ls
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd RTA_S
+cd UTNFRA_SO_1P2C_2024_Barbizan/
+cd RTA_SCRIPT_Examen_20241013/
+vim Punto_A.sh
+chmod 755 Punto_A.sh
+tree
+./Punto_A.sh
+sudo chmod 755 Punto_A.sh
+./Punto_A.sh
+sudo ./Punto_A.sh
+cd /
+ls
+tree Examenes-UTN/
+cd home/vagrant/repogit/
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_B.sh
+sudo ./Punto_B.sh
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/
+sudo chmod 755 Punto_B.sh
+sudo ./Punto_B.sh
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_C.sh
+sudo chmod 755 UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_C.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013
+ls
+sudo ./Punto_C.sh
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_D.sh
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_C.sh
+sudo chmod 755 UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_D.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/
+cd RTA_SCRIPT_Examen_20241013/
+sudo ./Punto_D.sh
+cd ..
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Estructura_Asimetrica/
+ls
+tree
+ls clientes
+ls correo
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_E.sh
+sudo chmod 755 UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_E.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013
+ls
+sudo ./Punto_E.sh
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_ARCHIVOS_Examen_20241013/
+ls
+cat Filtro_Basico.txt
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_F.sh
+sudo chmod 755 UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_F.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013
+ls
+sudo ./Punto_F.sh
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_E.sh
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_F.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/
+ls
+rm Filtro_Avanzado.txt
+ls
+sudo ./Punto_F.sh
+vim Punto_F.sh
+sudo ./Punto_F.sh
+cd ..
+vim UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Punto_F.sh
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/
+sudo ./Punto_F.sh
+clear
+cd ..
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cat UTNFRA_SO_1P2C_2024_Barbizan/RTA_ARCHIVOS_Examen_20241013/Filtro_Avanzado.txt
+rm UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/Filtro_Avanzado.txt
+ls
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd UTNFRA_SO_1P2C_2024_Barbizan/RTA_SCRIPT_Examen_20241013/
+ls
+rm Filtro_Avanzado.txt
+ls
+cd ..
+clear
+tree UTNFRA_SO_1P2C_2024_Barbizan/
+cd UTNFRA_SO_1P2C_2024_Barbizan/
+cat << FIN >> README.md
+
+Nombre: Franco
+Apellido: Barbizan
+Legajo: 115973
+Division: 113
+FIN
+
+cat README.md 
+cat << FIN > README.md
+# UTNFRA_SO_1P2C_2024_Barbizan
+
+
+Nombre: Franco
+Apellido: Barbizan
+Legajo: 112380
+Division: 113 turno mañana
+FIN
+
+ls
+cat README.md 
+cd ..
+clear
+ls
+ls -la $HOME
+history -a $HOME/.bash_history
+cp $HOME/.bash_history Historial_comandos_BarbizanFranco.txt
+git push
+cd UTNFRA_SO_1P2C_2024_Barbizan/
+ls
+cd ..
+ls
+cd UTNFRA_SO_1P2C_2024_Barbizan/
+ls -la $HOME
+history -a $HOME/.bash_history
